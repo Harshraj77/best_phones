@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "17.0.110.4.7",
+    "postcss": "17.0.18.4.14",
+    "tailwindcss": "17.0.13.1.4",
+    "vite": "17.0.12.9.13"
+  }
+}
