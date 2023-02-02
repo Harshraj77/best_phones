@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "17.0.110.4.7",
-    "postcss": "17.0.18.4.14",
-    "tailwindcss": "17.0.13.1.4",
-    "vite": "17.0.12.9.13"
+    "autoprefixer": "10.4.13",
+    "postcss": "8.4.21",
+    "tailwindcss": "3.2.4",
+    "vite": "4.1.0"
   }
 }
